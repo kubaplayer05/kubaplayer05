@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am 19 years old programmer, who is interested in web development.<br><br>🏆 Winner of the Hackyeah 2024 hackathon in  "Social Impact Bridge" task.<br>🔭 I’m currently working on Tenant Management System (tms-gui) for Tracardi. link: https://github.com/Tracardi/tms-gui <br>🌱 I’m currently improving my skills on data structures and algorithms
+🏆 Winner of the Hackyeah 2024 hackathon in  "Social Impact Bridge" task.<br>
 
 
 ## 🌐 Socials:
